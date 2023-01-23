@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/utoYou/TypeScript-Sample/issues"
   },
-  "homepage": "https://github.com/utoYou/TypeScript-Sample#readme"
+  "homepage": "https://github.com/utoYou/TypeScript-Sample#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
